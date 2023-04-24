@@ -75,3 +75,8 @@ h1, h3, .name {
     border: 2px solid orange;
     transform: translateY(4px);
 }
+
+.mainImage {
+    display: flex;
+    margin-top: 25px;
+}

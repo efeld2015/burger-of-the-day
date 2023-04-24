@@ -3,3 +3,17 @@
     margin: 0 auto;
     background: #fcdd60;
 }
+
+h1, h3, .name {
+    text-align: center;
+    font-family:  'Mochiy Pop One', sans-serif;
+}
+
+.name {
+    background:#f0262a;
+    height: 100pxl
+    width: 300px;
+    text-align: center;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: white;
+}
